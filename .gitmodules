@@ -1,0 +1,6 @@
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/twbs/bootstrap.git
+[submodule "mortgage-calculator"]
+	path = mortgage-calculator
+	url = https://github.com/MohannadKhasawneh/mortgage-calculator.git
